@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ViewBindingQuiz</string>
+    <string name="question_1">The Memphis Grizzlies are in the Western Conference</string>
+    <string name="question_2">James Harden is currently on the Brooklyn Nets</string>
+    <string name="question_3">The Golden State Warriors are the most recent Champions of the NBA</string>
+    <string name="question_4">Nikola Jokic was the most recent winner of the "Most Valuable Player" award</string>
+    <string name="question_5">Lebron James has won 5 NBA Championships</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="correct">Correct!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
